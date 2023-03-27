@@ -1,6 +1,6 @@
 ### html标签
 ##### 一、html基本结构标签
-![](aa.png)
+![](pictures/aa.png)
 代码
 ![](code1.png)
 
